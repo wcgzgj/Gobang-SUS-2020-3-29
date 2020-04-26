@@ -1,0 +1,22 @@
+﻿生成启动时间为 2020/3/29 3:04:07。
+     1>项目“D:\文件\编程代码存储路径\VS2010\五子棋AI\五子棋AI.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\五子棋AI.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\程序\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\文件\编程代码存储路径\vs2010\五子棋ai\test.cpp(215): warning C4715: “Array::giveValue”: 不是所有的控件路径都返回值
+       Link:
+         d:\程序\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\文件\编程代码存储路径\VS2010\五子棋AI\Debug\五子棋AI.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\五子棋AI.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\文件\编程代码存储路径\VS2010\五子棋AI\Debug\五子棋AI.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\文件\编程代码存储路径\VS2010\五子棋AI\Debug\五子棋AI.lib" /MACHINE:X86 Debug\test.obj
+         LINK : 没有找到 D:\文件\编程代码存储路径\VS2010\五子棋AI\Debug\五子棋AI.exe 或上一个增量链接没有生成它；正在执行完全链接
+         五子棋AI.vcxproj -> D:\文件\编程代码存储路径\VS2010\五子棋AI\Debug\五子棋AI.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\文件\编程代码存储路径\VS2010\五子棋AI\Debug\五子棋AI.exe;#1" /manifest "Debug\五子棋AI.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\五子棋AI.unsuccessfulbuild”。
+         正在对“Debug\五子棋AI.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\文件\编程代码存储路径\VS2010\五子棋AI\五子棋AI.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.71
